@@ -1,5 +1,9 @@
 body {
+<<<<<<< HEAD
     color: blue;
+=======
+    color: red;
+>>>>>>> 071317f (Modifique la cabecera y el color del texto)
     text-align: center;
     font-family: "Arial";
 }
